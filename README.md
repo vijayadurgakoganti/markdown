@@ -30,4 +30,11 @@ unordered list
 table creation  
 Name|RollNo|College
 ----|------|-------
-vrsec|1|vr
+vrsec|1|vr  
+
+...........................................  
+~~~python  
+def sum(a,b):  
+  return a+b  
+  
+~~~  
